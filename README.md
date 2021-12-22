@@ -2,7 +2,7 @@
 
 - Custom dataset: 
 
-  932 photo marked up on RoboFlow and stretch to 416x416
+  932 photo marked up on RoboFlow with stretch to 416x416 and augmentation
   
   7 classes
 
