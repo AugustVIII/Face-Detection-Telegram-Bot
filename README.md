@@ -3,6 +3,7 @@
 - Custom dataset: 
 
   932 photo marked up on RoboFlow and stretch to 416x416
+  
   7 classes
 
 - Fine-tunning YOLOv4-darknet
