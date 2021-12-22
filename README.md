@@ -1,8 +1,10 @@
-# Face-Detection-Telegram-Bot on YOLOv4-darknet
+# Face-Detection-Telegram-Bot
 
-- The model was trained on a custom dataset with fine-tuning YOLOv4-darknet
-- The dataset was manually marked up on Roboflow
-- The model detects 7 people
+- Custom dataset: 
+                - 932 photo marked up on RoboFlow and stretch to 416x416
+                - 7 classes
+- Fine-tunning YOLOv4-darknet
+- Output of model predictions from telegram-bot
 
 Link on bot: <https://t.me/ds_06_bot>
 
